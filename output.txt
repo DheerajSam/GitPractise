@@ -1,1 +1,2 @@
 final result 
+adding a new line
